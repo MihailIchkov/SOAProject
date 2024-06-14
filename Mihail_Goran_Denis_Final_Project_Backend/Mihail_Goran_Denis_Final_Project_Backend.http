@@ -1,0 +1,6 @@
+@Mihail_Goran_Denis_Final_Project_Backend_HostAddress = http://localhost:3000
+
+GET {{Mihail_Goran_Denis_Final_Project_Backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
